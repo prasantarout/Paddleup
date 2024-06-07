@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1094983267462",
+    "project_id": "paddletapp",
+    "storage_bucket": "paddletapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094983267462:android:cc7ad8b28727ca1cf3cd07",
+        "android_client_info": {
+          "package_name": "com.paddletapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094983267462-3dplsthju9oo4gsprlgdcotn71uqq169.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paddletapp",
+            "certificate_hash": "1bc02915ec16662baa68e693e2d86756858fd04d"
+          }
+        },
+        {
+          "client_id": "1094983267462-7rkd2ej9h2fqinhf3h103jofhl16h5et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paddletapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1094983267462-9n0amqng7rlr1lra2lu9nlt1u45kbc04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paddletapp",
+            "certificate_hash": "14bac4bc34fd4698163f87e42f7da4f23b0d5793"
+          }
+        },
+        {
+          "client_id": "1094983267462-o49abgo3hl8rb7f1nt8td7k1pdeqilv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXEWR79iE4K1ftVHtr3RNtTwdGb6GfPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094983267462-o49abgo3hl8rb7f1nt8td7k1pdeqilv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094983267462-b4ltnbdje81efmcaftf4i3uj33lul4l4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webskitters.paddletapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

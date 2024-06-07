@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaddleTapp</string>
+     <string name="facebook_app_id">831132705304044</string>
+     <string name="facebook_client_token">e2aeca5415301d265361dbfa08a75a37</string>
+</resources>
